@@ -1,4 +1,5 @@
 Air Quality Index (AQI) Statistical Analysis Project
+
 Overview
 This project performs a detailed statistical analysis of national Air Quality Index (AQI) data, utilizing A/B testing and hypothesis testing techniques. The aim is to provide insights into air quality conditions across various states in the U.S., with specific case studies on Los Angeles County, New York, Ohio, and Michigan.
 
